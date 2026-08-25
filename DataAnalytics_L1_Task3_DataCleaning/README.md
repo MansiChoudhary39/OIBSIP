@@ -69,9 +69,9 @@ DataAnalytics-L1-DataCleaning/
 
 ├── output/
 
-├── README.md
-
 └── cleaned_titanic.csv
+
+├── README.md
 
 ## 📌 Conclusion
 
