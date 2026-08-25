@@ -77,6 +77,8 @@ RFM Analysis combined with K-Means Clustering provides useful customer segments 
 
 **Oasis Infobyte Data Analytics Internship**
 
-**Track:** Data Analytics  
-**Level:** Level 1  
+**Track:** Data Analytics
+
+**Level:** Level 1
+ 
 **Task:** Task 2 — Customer Segmentation Analysis
