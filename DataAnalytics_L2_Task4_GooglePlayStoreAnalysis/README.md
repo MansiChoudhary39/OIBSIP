@@ -73,12 +73,13 @@ DataAnalytics-L2-GooglePlayStoreAnalysis/
 ├── data/
 
 ├── notebooks/
+ 
+  └── Google_Play_Store_Analysis.ipynb
 
 ├── output/
 
 ├── README.md
 
-└── Google_Play_Store_Analysis.ipynb
 
 ## 📌 Conclusion
 
