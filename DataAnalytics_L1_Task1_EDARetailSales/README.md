@@ -133,11 +133,11 @@ DataAnalytics-L1-EDARetailSales/
 
 ├── data/
  
-   └── retail_sales_dataset.csv
+│   └── retail_sales_dataset.csv
 
 ├── notebook/
 
-   └── Task1_EDA_Retail_Sales.ipynb
+│   └── Task1_EDA_Retail_Sales.ipynb
 
 ├── output/
 
