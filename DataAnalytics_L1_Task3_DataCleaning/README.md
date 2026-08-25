@@ -81,6 +81,8 @@ This project demonstrates practical data cleaning and preprocessing techniques u
 
 **Oasis Infobyte Data Analytics Internship**
 
-**Track:** Data Analytics  
-**Level:** Level 1  
+**Track:** Data Analytics
+
+**Level:** Level 1
+
 **Task:** Task 3 — Data Cleaning
